@@ -1,0 +1,29 @@
+/* .cont{
+    color:tomato;
+} */
+
+/* .test{
+    width: 4px;
+    height: 4px;
+    background-color: cadetblue;
+    position: relative;
+} */
+
+.card{
+    position: relative;
+}
+h3{
+    background-color: goldenrod;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    right: 30px;
+    font-size: large;
+    padding: 10px
+}
+.form label{
+    font-weight: 600;
+    display: inline-block;
+    margin-bottom: .5rem;
+    color: maroon;
+}
